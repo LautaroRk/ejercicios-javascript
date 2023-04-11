@@ -1,0 +1,14 @@
+{
+  "name": "ejercicios-javascript",
+  "version": "1.0.0",
+  "description": "Ejercicios de JavaScript en español",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -t --verbose"
+  },
+  "author": "Lautaro Romczyk",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
