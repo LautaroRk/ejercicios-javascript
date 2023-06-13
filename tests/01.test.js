@@ -41,7 +41,7 @@ describe("01", () => {
   describe("sumarYDividir", () => {
     it("debería retornar la suma del primer número al segundo, y luego dividir el resultado por el tercero", () => {
       expect(sumarYDividir(1, 2, 3)).toBe(1);
-      expect(sumarYDividir(2, 2, 3)).toBe(2);
+      expect(sumarYDividir(7, 2, 3)).toBe(3);
     });
   });
 
